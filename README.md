@@ -14,5 +14,9 @@ you have placed in this folder with the .mp3 file extension, and if the file doe
 into this folder and enjoy listening!
 
 ## Demo Video
-[![Watch the video](https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg) | height = 100](https://www.youtube.com/shorts/TcbWR1ghD74)
+<a href="https://www.youtube.com/shorts/TcbWR1ghD74">
+  <img src="https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg" alt="Watch the video" width="400" height="225">
+</a>
+
+[![Watch the video](https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg)](https://www.youtube.com/shorts/TcbWR1ghD74)
 https://www.youtube.com/shorts/TcbWR1ghD74
