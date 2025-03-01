@@ -6,7 +6,7 @@ make use of fast forier transforms and import files in unity for the creation of
 ## Core Goals
 The key goals I was working towards with this project were to make it look good (not necessarily complex, just simple and clean), to
 make it capable of loading external files in some way, and to make it within the one month deadline. I am pleased to say that all of 
-these have been achieved, and I was even able to add some simple visual customisation options before giving it to her.
+these have been achieved, and I was even able to add some simple visual customisation options before shipping.
 
 ## How to Use
 The audio visualiser upon being ran will look for a folder in your documents titled "AudioVisualiserMusic". It will look for the audio
