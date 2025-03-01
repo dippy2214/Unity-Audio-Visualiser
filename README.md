@@ -15,8 +15,6 @@ into this folder and enjoy listening!
 
 ## Demo Video
 <a href="https://www.youtube.com/shorts/TcbWR1ghD74">
-  <img src="https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg" alt="Watch the video" width="400" height="225">
+  <img src="https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg" alt="Watch the video" width="255" height="143">
 </a>
 
-[![Watch the video](https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg)](https://www.youtube.com/shorts/TcbWR1ghD74)
-https://www.youtube.com/shorts/TcbWR1ghD74
