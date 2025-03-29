@@ -3,7 +3,6 @@ This project initially began as a side project being developed for my sister, wh
 working towards the deadline of her birthday, which gave me roughly a month for this project, I had a great time figuring out how to
 make use of fast forier transforms and import files in unity for the creation of this program.
 
-## Core Goals
 The key goals I was working towards with this project were to make it look good (not necessarily complex, just simple and clean), to
 make it capable of loading external files in some way, and to make it within the one month deadline. I am pleased to say that all of 
 these have been achieved, and I was even able to add some simple visual customisation options before shipping.
@@ -17,4 +16,6 @@ into this folder and enjoy listening!
 <a href="https://www.youtube.com/shorts/TcbWR1ghD74">
   <img src="https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg" alt="Watch the video" width="255" height="400">
 </a>
+
+## 🛠️ The Development Process
 
