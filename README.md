@@ -17,5 +17,5 @@ into this folder and enjoy listening!
   <img src="https://i.ytimg.com/vi/TcbWR1ghD74/oar2.jpg" alt="Watch the video" width="255" height="400">
 </a>
 
-## 🛠️ The Development Process
+## The Development Process 🛠️ 
 
