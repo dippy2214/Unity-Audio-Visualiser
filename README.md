@@ -19,3 +19,5 @@ into this folder and enjoy listening!
 
 ## The Development Process 🛠️ 
 
+### 🤔 Defining the goals
+
