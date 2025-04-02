@@ -98,4 +98,9 @@ We calculate some of the desired audio frequency ranges, and scale these to be a
 follows an exponential pattern, however you can change this depending on your specific use case and it is open to tweaking. There isn't a hard
 and fast rule for these ranges as such, we are just looking for something that creates a nice visual effect.
 
+Coding this in we have 8 bands to use in the visualiser, we get the following effect:
+
+<a>
+  <img src="https://github.com/user-attachments/assets/a7794e97-2e26-4a95-9d3c-c559675a5301" alt="Sample Visualisation" width="400" height="255">
+</a>
 
