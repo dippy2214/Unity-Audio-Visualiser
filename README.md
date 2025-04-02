@@ -139,5 +139,19 @@ on how to fix this is to only load up the audio files for each song, which would
 the start of every track. However, the only true solution would be to make a proper file loading system that didn't run through web requests, which 
 is not a performant answer to the problem.
 
-### 
+### 📜 Expanding The Minimum Viable Product
+At this stage in the project, we have a file loading system that works, and it looks fine. This is our minimum viable product, meaning all of our goals
+for the project that we outlined in the earlier discussion stages have been met in the simplest way possible. Now I get to have some fun
+
+First of all, let's think about our audio. So far we have been operating along single track systems, but most audio is stereo. For anyone unfamiliar, 
+think of stereo audio as an audio format that has 2 layers, which are completely separate from each other. This can be used to create clever effects 
+to emulate sound in 3D space by putting different sounds to the left and right ear, which is how surround sound style effects in games and such work.
+This can also be used in music, and often is, so let's think about supporting this kind of system. If the bass is playing in one track and the main
+tune in the other, we still want to visualise both the bass and the main tune or it may look confusing to an attentive viewer. 
+
+To achieve this we need to modify the way we're collecting samples and creating the bands. Firstly, we need to take sample from both tracks. This means
+new samples for both left and right audio tracks, rather than one set of samples for the default track. Next, when making the bands, average out both 
+sides for each band (treating it almost like double the samples). Using this we can even make it only play and visualise music from one track at a time,
+with only some little if statements. 
+
 
