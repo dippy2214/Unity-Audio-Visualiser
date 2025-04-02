@@ -64,6 +64,9 @@ yet break the data down into bands, but instead used 512 samples, which represen
 data from specific points at some stage to get a number from the fast forier transforms). To start with I just tested these samples, which 
 were evenly spaced through the frequency range of the audio file, and this produced some good (albeit not quite pretty yet) results.
 
+![audio visualiser samples](https://github.com/user-attachments/assets/16b526d0-fa2b-4f39-a6e4-b4e030c94065)
+
+
 ### 🤠 I Was In A Band
 
 
