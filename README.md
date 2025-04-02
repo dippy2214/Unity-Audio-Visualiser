@@ -44,3 +44,6 @@ have thinner bands (20-60 hertz for example) whereas higher frequencies will hav
 these lower frequency sounds with more precision than the higher frequency ones. Breaking down the audio into these bands is important because
 we need to break down continuous frequency into single numbers we can use.
 
+Once we have these bands, making the visualiser is just a matter of applying the data on how strongly each band is represented in the audio
+to some kind of visual feedback to create nice looking effects, which for me was a fine task since this kind of real time representation
+of data made use of a lot of transferable skills of mine from game development (especially since I had chosen to use untiy).
