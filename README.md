@@ -110,6 +110,10 @@ since I didn't upload this project to github while making it the older versions 
 Now that we have a working concept for the band system, it's time to expand.
 
 ### 📈 Expanding The Systems
-
+After implementing the 8 bands, I quickly switched to allow myself to make use of 64 bands as well. This was entirely for aesthetic purposes, and
+the bands are made following similar logic to the 8 bands, just divided up more. having 64 bands let me have 64 cubes, which let me play with the
+visuals more to customise it how I wanted. I was going for a circular pattern, which will be more clear in the final design. However at this stage
+I started experimenting with lots more looks for the program. I could easily extract data such as amplitude from the data, and I experimented for a
+while with different looks. However, none of this was particularly technically impressive, so lets skip forward to some more features.
 
 
