@@ -7,7 +7,7 @@ The key goals I was working towards with this project were to make it look good 
 make it capable of loading external files in some way, and to make it within the one month deadline. I am pleased to say that all of 
 these have been achieved, and I was even able to add some simple visual customisation options before shipping.
 
-## How to Use 🧑‍🏫
+## How to Use 📚
 The audio visualiser upon being ran will look for a folder in your documents titled "AudioVisualiserMusic". It will look for the audio
 you have placed in this folder with the .mp3 file extension, and if the file doesn't exist it will create it. simply put your music 
 into this folder and enjoy listening!
