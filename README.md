@@ -54,4 +54,8 @@ strong use of this in this project, and credit him for much of the code structur
 for me.
 
 ### 👨‍💻 Starting Development
+The first step I took in development was setting up a basic testing scene to experiment with. This entailed a simple setup with an audio
+source and a random copyright free song I found on the internet (pure coincidence that I was testing with an 8 bit rickroll I assure you),
+plus an empty gameobject with the script I was testing with.
+
 
