@@ -154,7 +154,7 @@ new samples for both left and right audio tracks, rather than one set of samples
 sides for each band (treating it almost like double the samples). Using this we can even make it only play and visualise music from one track at a time,
 with only some little if statements. 
 
-### 🎁 Final Delivery
+### 🏁 Final Delivery And Closing Thoughts
 After having some fun with colors in the circle and sin waves, plus some UI work, we ended up with the video you saw at the top of this page. I built 
 the project to test, fixed some bugs with actually creating the file it needs the audio files to be places in, gave it a default song and we were ready
 to give the gift. This project was a very fun little side quest in my holiday adventures, and I very much enjoyed working on something that was so unqiue
