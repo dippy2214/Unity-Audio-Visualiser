@@ -104,8 +104,8 @@ Coding this in we have 8 bands to use in the visualiser, and after a bit of clea
   <img src="https://github.com/user-attachments/assets/a7794e97-2e26-4a95-9d3c-c559675a5301" alt="Sample Visualisation" width="400" height="255">
 </a>
 
-(apologies for the pictures of my laptop, these were the only pictures I thought to take through the development of this project, and since I
-didn't upload this project to github while making it the older versions have been lost).
+(apologies for the low quality pictures of my laptop, these were the only pictures I thought to take through the development of this project, and 
+since I didn't upload this project to github while making it the older versions have been lost).
 
 
 
