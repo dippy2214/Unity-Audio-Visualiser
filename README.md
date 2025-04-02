@@ -41,8 +41,9 @@ like fast forier transforms (a formula for breaking down a given wave or signal 
 they are). By applying fast forier transforms to the sound wave our music is generating, audio visualisers will break the sound down into 
 frequency bands. Each band will be a different size, often based on how our ears percieve sounds. Generally speaking lower frequencies will
 have thinner bands (20-60 hertz for example) whereas higher frequencies will have wider bands (6000 - 20000 hertz), because our ears percieve
-these lower frequency sounds with more precision than the higher frequency ones. Breaking down the audio into these bands is important because
-we need to break down continuous frequency into single numbers we can use.
+these lower frequency sounds with more precision than the higher frequency ones, and as such lower frequencies and bass lines will also be a
+more significant part of most soundtracks. Breaking down the audio into these bands is important because we need to break down continuous 
+frequency into single numbers we can use.
 
 Once we have these bands, making the visualiser is just a matter of applying the data on how strongly each band is represented in the audio
 to some kind of visual feedback to create nice looking effects, which for me was a fine task since this kind of real time representation
@@ -56,6 +57,10 @@ for me.
 ### 👨‍💻 Starting Development
 The first step I took in development was setting up a basic testing scene to experiment with. This entailed a simple setup with an audio
 source and a random copyright free song I found on the internet (pure coincidence that I was testing with an 8 bit rickroll I assure you),
-plus an empty gameobject with the script I was testing with.
+plus an empty gameobject with the script I wanted to create the visualisation with.
+
+The script would create a bunch of cubes , which at first I would change the scale of to see how my audio bands were working. My code didn't 
+yet break the data down into bands, but instead used 512 samples, which represent exact frequencies I was taking data from (rather than 
+
 
 
