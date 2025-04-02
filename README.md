@@ -60,7 +60,9 @@ source and a random copyright free song I found on the internet (pure coincidenc
 plus an empty gameobject with the script I wanted to create the visualisation with.
 
 The script would create a bunch of cubes , which at first I would change the scale of to see how my audio bands were working. My code didn't 
-yet break the data down into bands, but instead used 512 samples, which represent exact frequencies I was taking data from (rather than 
+yet break the data down into bands, but instead used 512 samples, which represent exact frequencies I was taking data from (we need to take
+data from specific points at some stage to get a number from the fast forier transforms). To start with I just tested these samples, which 
+were evenly spaced through the frequency range of the audio file.
 
 
 
