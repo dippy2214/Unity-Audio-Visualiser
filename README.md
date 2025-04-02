@@ -132,6 +132,11 @@ Unity allows me to generate web requests, and these can be used on the local com
 to look for multimedia MPEG files, and then download these into the program. Is this performant? No. Is it a simple solution? Also no. But it was
 quick, easy and just the right amount of silly for a project like this (and besides, realising I could use web requests this way did make me smile).
 
-
+This is what I did, but my implementation comes with some real drawbacks. Currently the program loads all audio files on startup, which creates a
+major lag spike. It also stores all audio files in memory for the entire time the program is running, making it memory inefficient. Both of these
+problems also scale dramatically the more audio files you put in that folder to load into the program. The simple answer on how to fix this is to
+only load up the audio files for each song, which would have fixed both of these at the expense of a smaller lag spike at the start of every track.
+However, the only true solution would be to make a proper file loading system that didn't run through web requests, which is not a performant answer
+to the problem.
 
 
