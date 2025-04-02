@@ -35,3 +35,10 @@ to make systems I had no experience with, and these features had to be cut in th
 The other point to note was that we wanted it to look nice, since that was the whole point of having the audio visualised in the first place.
 
 ### 💡 Starting the Research
+For me the next step of this project had to be research. Like many of my other projects, I had no idea what I was doing to begin with. I
+looked for resources from people with experience around the internet on how audio visualisers worked, coming across mathematical concepts
+like fast forier transforms (a formula for breaking down a given wave or signal into the individual frequencies that make it up and how strong
+they are). By applying fast forier transforms to the sound wave our music is generating, audio visualisers will break the sound down into 
+frequency bands. Each band will be a different size, often based on how our ears percieve sounds. Generally speaking lower frequencies will
+have thinner bands (20-60 hertz for example) whereas higher frequencies will have wider bands (6000 - 20000 hertz).
+
