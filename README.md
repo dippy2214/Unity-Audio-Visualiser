@@ -66,6 +66,10 @@ were evenly spaced through the frequency range of the audio file, and this produ
 
 ![audio visualiser samples](https://github.com/user-attachments/assets/16b526d0-fa2b-4f39-a6e4-b4e030c94065)
 
+<a>
+  <img src="[https://github.com/user-attachments/assets/16b526d0-fa2b-4f39-a6e4-b4e030c94065]" alt="Sample Visualisation" width="400" height="255">
+</a>
+
 
 ### 🤠 I Was In A Band
 
