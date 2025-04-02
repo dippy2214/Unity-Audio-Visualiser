@@ -73,6 +73,29 @@ stronger in our audio, as we discussed earlier. The wave along the cubes is also
 samples. The solution to this is the audio band system.
 
 ### 🤠 I Was In A Band
+To set up the audio bands, I took a system shown in the Peer Play video series above:
 
+        22050 / 512 = 43 hertz per sample
+        20 - 60 hertz
+        60 - 250 hertz
+        250 - 500 hertz
+        500 - 2000 hertz
+        4000 - 6000 hertz
+        6000 - 20000 hertz
+
+        0 - 2 samples = 86 hertz
+        1 - 4 samples = 172 hertz -> 87 - 258 hertz range
+        2 - 8 samples = 344 hertz -> 259-602
+        3 - 16
+        4 - 32
+        5 - 64
+        6 - 128
+        7 - 256
+
+        510 total - add 2 to last one - 512 samples (nice power of 2)
+
+We calculate some of the desired audio frequency ranges, and scale these to be a rough guide for the samples in each band. As you can see this
+follows an exponential pattern, however you can change this depending on your specific use case and it is open to tweaking. There isn't a hard
+and fast rule for these ranges as such, we are just looking for something that creates a nice visual effect.
 
 
