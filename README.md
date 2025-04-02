@@ -130,7 +130,8 @@ it already, but I went for another, sillier option.
 
 Unity allows me to generate web requests, and these can be used on the local computer. Using this, I can run a unity web request on the local device
 to look for multimedia MPEG files, and then download these into the program. Is this performant? No. Is it a simple solution? Also no. But it was
-quick, easy and just the right amount of silly for a project like this (in my opinion).
+quick, easy and just the right amount of silly for a project like this (and besides, realising I could use web requests this way did make me smile).
+
 
 
 
