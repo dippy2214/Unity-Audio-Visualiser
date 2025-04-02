@@ -69,7 +69,8 @@ were evenly spaced through the frequency range of the audio file, and this produ
 </a>
 
 As we expected, the height is weighted heavily towards one end. This is because of the way that the lower frequency sounds appear so much
-stronger in our audio, as we discussed earlier. The solution to this is the audio band system.
+stronger in our audio, as we discussed earlier. The wave along the cubes is also not entirely smooth, often jittering a bit between individual
+samples. The solution to this is the audio band system.
 
 ### 🤠 I Was In A Band
 
