@@ -19,7 +19,7 @@ into this folder and enjoy listening!
 
 ## The Development Process 🛠️ 
 
-### 🤔 Defining the Goals
+### 🤔 Defining The Goals
 My first step with this project was actually talking to my sister a bit about what she would be interested in. Having these chats and
 defining exactly what was required to make the product that she would enjoy was my first time making a project for somebody other than 
 myself outside of uni, which was an interesting experience despite obviously being quite unofficial. These experiences were built upon
@@ -34,7 +34,7 @@ to make systems I had no experience with, and these features had to be cut in th
 
 The other point to note was that we wanted it to look nice, since that was the whole point of having the audio visualised in the first place.
 
-### 💡 Starting the Research
+### 💡 Starting The Research
 For me the next step of this project had to be research. Like many of my other projects, I had no idea what I was doing to begin with. I
 looked for resources from people with experience around the internet on how audio visualisers worked, coming across mathematical concepts
 like fast forier transforms (a formula for breaking down a given wave or signal into the individual frequencies that make it up and how strong
@@ -62,7 +62,9 @@ plus an empty gameobject with the script I wanted to create the visualisation wi
 The script would create a bunch of cubes , which at first I would change the scale of to see how my audio bands were working. My code didn't 
 yet break the data down into bands, but instead used 512 samples, which represent exact frequencies I was taking data from (we need to take
 data from specific points at some stage to get a number from the fast forier transforms). To start with I just tested these samples, which 
-were evenly spaced through the frequency range of the audio file.
+were evenly spaced through the frequency range of the audio file, and this produced some good (albeit not quite pretty yet) results.
+
+### 🤠 I Was In A Band
 
 
 
