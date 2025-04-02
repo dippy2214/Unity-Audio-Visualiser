@@ -40,5 +40,7 @@ looked for resources from people with experience around the internet on how audi
 like fast forier transforms (a formula for breaking down a given wave or signal into the individual frequencies that make it up and how strong
 they are). By applying fast forier transforms to the sound wave our music is generating, audio visualisers will break the sound down into 
 frequency bands. Each band will be a different size, often based on how our ears percieve sounds. Generally speaking lower frequencies will
-have thinner bands (20-60 hertz for example) whereas higher frequencies will have wider bands (6000 - 20000 hertz).
+have thinner bands (20-60 hertz for example) whereas higher frequencies will have wider bands (6000 - 20000 hertz), because our ears percieve
+these lower frequency sounds with more precision than the higher frequency ones. Breaking down the audio into these bands is important because
+we need to break down continuous frequency into single numbers we can use.
 
