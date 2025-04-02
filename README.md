@@ -119,6 +119,18 @@ while with different looks.
 However, none of this was particularly technically impressive, so lets skip forward to some more features.
 
 ### 📂 Loading In The Data
+Let's talk loading in the files, the second goal of this project. In short, when using unity, this sucks. It is not something the engine was 
+designed for. Loading in files which are part of your project from the very beginning is one thing, but loading in files that are not present at
+compile time is another completely. The files I want to interact with need to be external from the project, and for this we need some clever
+workarounds.
+
+Option 1 was to create my own file selecting system using the windows API myself, since unity doesn't have a tool for this. It seems like a fantastically
+interesting project, but for the 1 month time frame I didn't think this was the best course of action. I could try to find someone else who had done
+it already, but I went for another, sillier option. 
+
+Unity allows me to generate web requests, and these can be used on the local computer. Using this, I can run a unity web request on the local device
+to look for multimedia MPEG files, and then download these into the program. Is this performant? No. Is it a simple solution? Also no. But it was
+quick, easy and just the right amount of silly for a project like this (in my opinion).
 
 
 
