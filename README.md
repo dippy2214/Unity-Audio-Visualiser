@@ -116,4 +116,7 @@ visuals more to customise it how I wanted. I was going for a circular pattern, w
 I started experimenting with lots more looks for the program. I could easily extract data such as amplitude from the data, and I experimented for a
 while with different looks. However, none of this was particularly technically impressive, so lets skip forward to some more features.
 
+### 📂 Loading In The Data
+
+
 
