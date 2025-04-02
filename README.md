@@ -107,5 +107,9 @@ Coding this in we have 8 bands to use in the visualiser, and after a bit of clea
 (apologies for the low quality pictures of my laptop, these were the only pictures I thought to take through the development of this project, and 
 since I didn't upload this project to github while making it the older versions have been lost).
 
+Now that we have a working concept for the band system, it's time to expand.
+
+### 📈 Expanding The Systems
+
 
 
