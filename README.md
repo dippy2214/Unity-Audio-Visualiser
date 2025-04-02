@@ -49,5 +49,7 @@ to some kind of visual feedback to create nice looking effects, which for me was
 of data made use of a lot of transferable skills of mine from game development (especially since I had chosen to use unity).
 
 For anybody interested in pursuing a similar project, one of the most useful sources for me was [this video series](https://www.youtube.com/playlist?list=PL3POsQzaCw53p2tA6AWf7_AWgplskR0Vo)
-by Peer Play
+by Peer Play, which goes over the process of making an audio visualiser in unity and the kind of code you will need in the backend. I made
+strong use of this in this project, and credit him for much of the code structures and ideas used. It was a very valuable learning resource 
+for me.
 
